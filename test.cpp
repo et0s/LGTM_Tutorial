@@ -4,5 +4,8 @@
 
 int main() {
     std::cout << "Hello World!";
+    if(1){
+
+    }
     return 0;
 }
